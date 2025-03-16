@@ -42,6 +42,7 @@ Both approaches rely on Transformers.js to run AI models directly in the browser
 
 1. Clone the repository:
 ```bash
+git clone https://github.com/JMBoulos12/background-remove.git
 ```
 
 3. Start the development server:
