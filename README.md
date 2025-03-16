@@ -66,7 +66,7 @@ npm run dev
 
 ## Credits
 
-Inspired by the WebGPU background removal demo by @xenova.
+Inspired by [the WebGPU background removal demo](https://github.com/huggingface/transformers.js-examples/tree/main/remove-background-webgpu) by [@xenova](https://github.com/xenova).
 
 ## License
 
